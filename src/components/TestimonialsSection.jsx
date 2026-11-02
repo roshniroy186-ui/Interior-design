@@ -1,20 +1,20 @@
 const testimonials = [
   {
-    name: "Rahul Sharma",
+    name: "Rahul Sahani",
     location: "Noida",
     text:
       "The team completely transformed our apartment. The design was beautiful and the entire process was very smooth.",
     image: `${import.meta.env.BASE_URL}project-living-room.JPG`,
   },
   {
-    name: "Priya Verma",
+    name: "Roshni Kumari",
     location: "Greater Noida",
     text:
       "We loved the design of our living room and kitchen. The team understood exactly what we wanted.",
     image: `${import.meta.env.BASE_URL}project-bedroom.JPG`,
   },
   {
-    name: "Amit Singh",
+    name: "Atul",
     location: "Delhi NCR",
     text:
       "Very professional team and excellent quality of work. Our home now feels completely different.",

@@ -51,7 +51,7 @@ function Contact() {
             </span>
 
             <a href="tel:+919999999999">
-              +91 8303359451
+              +919572450663
             </a>
 
           </div>
@@ -66,7 +66,7 @@ function Contact() {
             </span>
 
             <a
-              href="https://wa.me/918303359451"
+              href="https://wa.me/919572450663"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -84,8 +84,8 @@ function Contact() {
               EMAIL
             </span>
 
-            <a href="mailto:dharamveer@vkfinteriors.com">
-              dharamveer@vkfinteriors.com
+            <a href="mailto: roshniroy186@gmail.com">
+              roshniroy186@gmail.com
             </a>
 
           </div>
@@ -100,8 +100,7 @@ function Contact() {
             </span>
 
             <p>
-              #20, 9th cross Govindappa Layout Byrathi,
-              S.R Nagar Post Bangalore East - bangalore -560077
+              #C-64, Block-C , Beta 1 , Greater Noida
             </p>
 
           </div>

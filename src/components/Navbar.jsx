@@ -19,7 +19,7 @@ function Navbar() {
           className="navbar-logo"
           onClick={closeMenu}
         >
-          VKF INTERIOR
+          ROSHNI INTERIOR
         </Link>
 
 

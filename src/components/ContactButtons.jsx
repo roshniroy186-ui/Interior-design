@@ -3,7 +3,7 @@ function ContactButtons() {
     <div className="contact-buttons">
 
       <a
-        href="https://wa.me/918303359451"
+        href="https://wa.me/919572450663"
         target="_blank"
         rel="noopener noreferrer"
         className="whatsapp-button"
@@ -22,7 +22,7 @@ function ContactButtons() {
       </a>
 
       <a
-        href="tel:+918303359451"
+        href="tel:+919572450663"
         className="call-button"
         aria-label="Call us"
       >

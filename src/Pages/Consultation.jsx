@@ -92,12 +92,12 @@ function Consultation() {
                 Prefer to talk directly?
               </p>
 
-              <a href="tel:+918303359451">
-                Call +91 8303359451
+              <a href="tel:+919572450663">
+                Call +91 9572450663
               </a>
 
               <a
-                href="https://wa.me/918303359451"
+                href="https://wa.me/919572450663"
                 target="_blank"
                 rel="noopener noreferrer"
               >
